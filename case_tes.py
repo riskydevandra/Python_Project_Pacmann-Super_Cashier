@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/13nRuXdue9Xea8XRZIOgrG_wxEtn3tsC4
 """
 
-import script
-from script import Transaction
+import Project_Python
+from Project_Python import Transaction
 
 # Instance for test case
-trnsct_123 = script.Transaction()
+trnsct_123 = Project_Python.Transaction()
 
 # Test Case 1
 print("Test Case 1")
